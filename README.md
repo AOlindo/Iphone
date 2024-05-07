@@ -1,11 +1,6 @@
 # Projeto iPhone
 Este projeto é uma implementação simples das funcionalidades de um iPhone em Java, utilizando conceitos de programação orientada a objetos e interfaces. O objetivo é demonstrar como as interfaces podem ser usadas para representar diferentes papéis de um dispositivo.
 
-## Estrutura do Projeto
-src/: Contém os arquivos Java do projeto.
-iPhone.java: Implementação da classe iPhone que representa o dispositivo e suas funcionalidades.
-README.md: Este arquivo, contendo informações sobre o projeto.
-
 ## Funcionalidades
 O iPhone implementa três interfaces que representam seus papéis principais:
 
